@@ -16,6 +16,7 @@
 - ⚙️ Interested in Process Automation
 - 🤖 Interested in Artificial Intelligence
 - 💬 Exploring Chatbots with AI
+- 🔍 Exploring Mobile Apps
 
 ## 🛠 &nbsp;Tech Stack
 
